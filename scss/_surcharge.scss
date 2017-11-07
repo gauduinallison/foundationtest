@@ -1,0 +1,58 @@
+header {
+    min-height: 600px;
+    height: 600px;
+    background-image: url('../img/hello_world.jpg');
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size: cover;
+    h1{
+      font-family:'Abril Fatface', cursive;
+      color: #b39c84;
+    }
+    a{
+      color: white;
+      text-transform: uppercase;
+    }
+}
+
+#illustration{
+    min-height: 600px;
+    height: 600px;
+    background-image: url('../img/img_third.png');
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#qualité{
+    background-color: #1D181F;
+    h2{
+        color: white;
+    }
+    h3{
+        color: #B39C84;
+    }
+    p{
+        color: #837589;
+    }
+}
+
+#portfolio{
+    background-color: #B39C84;
+    h2{
+        color: white;
+    }
+}
+
+#blog{
+  background-color: #1d181f;
+  h2{
+    color: white;
+  }
+  h3{
+    color: #b39c84;
+  }
+  p{
+    color: #837589;
+  }
+}
